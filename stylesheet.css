@@ -52,7 +52,7 @@ header p {
     border-radius: 8px;
 
     /* Background image of German flag */
-    background-image: url('images/german-flag.jpg'); /* Replace with your path */
+    background-image: url('images/german-flag.jpg'); /* Will replace with my path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
