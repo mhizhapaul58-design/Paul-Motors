@@ -88,8 +88,24 @@ https://github.com/mhizhapaul58-design/Motor-Atlas
 https://github.com/mhizhapaul58-design/Motor-Atlas
 
 ## **Credits and Attributions**
+Images of cars were sourced from pintrest 
+
+Information about car brands and their history was researched and assited by opne AI
+
+Tutorials used:
+w3schools
+
 
 ## **Reflection**
+
+During this project, I developed a strong understanding of how to build and structure a multi-page website using HTML and CSS. 
+I improved my ability to organise content clearly and create a consistent design across different pages.
+
+One of the key skills I learned was flexbox for positioning elements and creating responsive designs for different screen sizes. I also learned how to manage file structures effectively by organising images into an assets folder.
+
+Throughout the project, I faced problems such as fixing layout issues, working with image paths, and improving the  design. By solving these problems, I gained confidence in debugging and refining my code.
+
+Overall, this project helped me understand how real websites are built and improved both my technical and problem-solving skills,in the future l plan to add Javascript to make more interactive
 
 
 
