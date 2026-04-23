@@ -86,6 +86,31 @@ Home / German Cars
 
  ## **Visual Design**
 
+ ### **Sketches**
+
+ ### **Color Scheme**
+
+ - Dark backgrounds
+
+ - light text for readability
+
+ - bright color on the sections to make it pop
+
+ ### **Typography**
+
+ - A bold sans-seriff font for headings
+
+ - A clean readable font for text
+
+ ### **Layout approach**
+ 
+ - A verical scroll based design
+
+ - Sectioned content blocks
+
+ - Images placed near related text
+
+
  ## **Development tools**
 
  ### **Tools used**
