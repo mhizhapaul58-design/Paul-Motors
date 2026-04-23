@@ -60,7 +60,7 @@ Brand sections, text, and images
 
 ## **Instructions for Modifying Navigation**
 
-1. Open the <nav> section in each HTML page.
+1. Open the navigation section in each HTML page.
 
 2. Add, remove, or edit <li> links as needed.
 
