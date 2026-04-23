@@ -28,7 +28,7 @@ Each page has the same structure:
 
 1. Open the HTML file for the page you want to update (e.g., german.html).
 
-2. Locate the <p> or <ul> elements you want to edit.
+2. Locate the paragraphs or links elements you want to edit.
 
 3. Update the text inside the tags.
 
