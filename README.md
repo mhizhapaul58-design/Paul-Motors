@@ -79,22 +79,28 @@ Download the project folder
   https://github.com/
  
   
-https://github.com/mhizhapaul58-design/Motor-Atlas
+ https://mhizhapaul58-design.github.io/Motor-Atlas/
 
 ## Links to the live pages
 
   https://github.com/
   
-https://github.com/mhizhapaul58-design/Motor-Atlas
+ https://mhizhapaul58-design.github.io/Motor-Atlas/
 
 ## **Credits and Attributions**
-Images of cars were sourced from pintrest 
+The following resources were used during the development of this project:
 
-Information about car brands and their history was researched and assited by opne AI
+Images:
 
-Tutorials used:
-w3schools
+Images were sourced from free platforms such as Pintrest.
 
+Code Assistance:
+
+ChatGPT was used to help explain coding concepts, debug errors, and improve the structure of the website.
+
+Tutorials & Learning Resources:
+
+Guidance and examples were taken from online learning platforms such as W3Schools
 
 ## **Reflection**
 

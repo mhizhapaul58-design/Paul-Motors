@@ -97,6 +97,14 @@ Home / German Cars
 - CSS3 for styling 
 
 - Web Browser(Chrome) for testing
+- ChatGPT was used to:
+    Help explain coding concepts
+
+    Debug errors in HTML/CSS
+
+    Generate ideas for layout and structure
+    
+    Improve documentation writing
 
 I choose these tools because:
 
@@ -104,7 +112,8 @@ They support clean and semantic web development
 
 ### **Code generators**
 
-ChatGPT (OpenAI) - used to assist with generating and improving code 
+No major frameworks were used to keep the project focused on core skills.
+ChatGPT was used as a support tool, not to fully generate the entire project. All code was reviewed, understood, and adapted before use.
 
 
 
